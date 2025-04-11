@@ -1,1 +1,1 @@
-Alterei o conteúdo do "DesafioGit.txt" arquivo para subi-lo na branch main.
+Alterei o conteúdo do "DesafioGit.txt" arquivo para subi-lo na branch main - alteração nova.
